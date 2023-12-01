@@ -7,7 +7,7 @@ This repository is the official implementation of **VIDiff: Translating Videos v
 [Zhen Xing](https://chenhsing.github.io/) , [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zihao Zhang, Hui Zhang, [Han Hu](https://ancientmooner.github.io/), [Zuxuan Wu](https://zxwu.azurewebsites.net/), [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=zh-CN)
 <br/>
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://chenhsing.github.io/VIDiff/) [![arXiv](https://img.shields.io/badge/arXiv-2311.18837-b31b1b.svg)](https://arxiv.org/abs/2311.18830)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://chenhsing.github.io/VIDiff/) [![arXiv](https://img.shields.io/badge/arXiv-2311.18837-b31b1b.svg)](https://arxiv.org/abs/2311.18837)
 
 <p align="center">
 <img src="overview.jpg" width="1080px"/>  
